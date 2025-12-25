@@ -1,0 +1,8 @@
+requests
+selenium
+pandas
+matplotlib
+seaborn
+wordcloud
+plotly
+jieba
